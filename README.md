@@ -257,7 +257,3 @@ Run all cells from top to bottom. The notebook reproduces every number quoted ab
 ├── user-segmentation.png
 └── user-acquisition-growth-trend.png
 ```
-
-## Author
-
-Muhammad Ragil Sahyuda
