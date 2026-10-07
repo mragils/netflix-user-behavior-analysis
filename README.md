@@ -1,4 +1,4 @@
-# Netflix subscriber churn and engagement analysis
+# Netflix Subscriber Churn and Engagement Analysis
 
 An analysis of 50,000 streaming subscribers, with one row per user and 20 fields covering demographics, plan, viewing behavior and whether the user churned. About 19.9% of users have churned, which is 9,964 people and $122K of the $616K in monthly recurring revenue. I wanted to know who is churning and why, and whether any pattern in the data is strong enough to base a retention plan on.
 
